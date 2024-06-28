@@ -1,4 +1,7 @@
-
+<div align="center" width="50">
+<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" height=100px width = 100px></picture> 
+</div>
+  
 <h1 align="center">Hi 👋, I'm Imal</h1>
 <h3 align="center">A passionate developer from Sri Lanka</h3>
 
