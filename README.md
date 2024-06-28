@@ -1,4 +1,4 @@
-<a href="https://imgbb.com/"><img align="center" src="https://i.ibb.co/74z8z1g/OIP.jpg" alt="OIP" border="0"></a>
+
 <h1 align="center">Hi 👋, I'm Imal</h1>
 <h3 align="center">A passionate developer from Sri Lanka</h3>
 
