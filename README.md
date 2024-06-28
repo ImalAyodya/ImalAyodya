@@ -1,7 +1,10 @@
+<a href="https://imgbb.com/"><img align="center" src="https://i.ibb.co/74z8z1g/OIP.jpg" alt="OIP" border="0"></a>
 <h1 align="center">Hi 👋, I'm Imal</h1>
 <h3 align="center">A passionate developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imalayodya&label=Profile%20views&color=0e75b6&style=flat" alt="imalayodya" /> </p>
+
+---
 
 - 🌱 I’m currently learning **MERN stack**
 
